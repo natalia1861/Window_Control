@@ -1,5 +1,5 @@
 # README #
-
+Hola
 ### What is this repository for? ###
 
 * This repository holds an Arduino project able to control the mechatronic system for the integrated tracking of a building-integrated concentrator photovoltaics modules (BICPV) based on linear Fresnel lenses.
